@@ -1,0 +1,9 @@
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CalculatorApplication\bin\Debug\CalculatorLibrary.dll
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CalculatorApplication\bin\Debug\CalculatorLibrary.pdb
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CalculatorApplication\obj\Debug\CalculatorApplication.csprojAssemblyReference.cache
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CopyComplete
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\Dhiraj\Desktop\LearningDotNet-DXC\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
